@@ -1,0 +1,14 @@
+{
+    "sections": {
+        "banner": {
+            "type": "banner"
+        },
+        "showcase": {
+            "type": "showcase"
+        }
+    },
+    "order": [
+        "banner",
+        "showcase"
+    ]
+}
